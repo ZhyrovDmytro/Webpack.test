@@ -1,0 +1,29 @@
+# editors
+*.sublime-*
+.idea
+
+# npm
+/node_modules/
+npm-debug.log
+
+# app
+/src/css
+/src/js
+
+# vscode
+/.vscode
+/.idea
+/.vs
+
+# nvm
+.nvmrc
+
+# system files
+.DS_Store
+/**/*/DS_Store
+
+# dist
+/dist
+
+# styleguide
+/styleguide
